@@ -24,6 +24,23 @@
 >
 > 原 v7 设计公示（[Discussions #118](https://github.com/lingfengQAQ/webnovel-writer/discussions/118)）所征集的反馈仍是 v8 设计的重要输入；v7 的 CLI 形态经评估后不再发布，下一代改以 dsh 插件形态开发，设计文档随 v8 分支公开。
 
+## 赞助与支持
+
+<a href="https://www.infistar.cc/register?aff=YBE8GGRE&ref_source=link" target="_blank"><img src="docs/assets/sponsors/infistar-banner.png" alt="Infistar.cc 无限星河 · 一站式全球大模型 API 服务平台" width="728"/></a>
+
+**Webnovel Writer × Infistar.cc 无限星河｜全模型 API · 助力长篇网文持续创作**
+
+感谢 [Infistar.cc 无限星河](https://www.infistar.cc/register?aff=YBE8GGRE&ref_source=link) 赞助并为 Webnovel Writer 提供模型服务支持！
+
+- ⚡ **稳定支持长篇连续写作**：提供高可用模型通道与稳定响应，满足大纲规划、章节创作、内容审查、润色改写及长上下文写作等场景。
+- 🧠 **兼容 Claude Code 与主流模型**：支持 Claude、ChatGPT、Gemini、Kimi、GLM、DeepSeek 等模型，可灵活配置长篇写作、审查和辅助模型。
+- 📚 **助力记忆与知识库检索**：支持 Embedding、Rerank 等兼容 OpenAI 格式的接口，帮助角色设定、时间线、伏笔和章节内容持续沉淀，减少长篇创作中的遗忘与前后矛盾。
+- 🎁 **Webnovel Writer 用户专属福利**：通过 [专属推广链接](https://www.infistar.cc/register?aff=YBE8GGRE&ref_source=link) 注册并完成首次调用，即可领取 [5美元等值测试额度 / 首充专属优惠]，快速体验更稳定、更连贯的 AI 长篇创作流程！
+
+Webnovel Writer 用业余时间维护。如果它帮你省下了梳理设定、对齐伏笔的功夫，欢迎来信交流想法、反馈使用体验，或表达对项目的支持：
+
+📮 **ksdflisjdf@gmail.com**
+
 ## 为什么需要它
 
 长篇创作最难的不是写出第一章，而是写到第 80 章、第 200 章以后仍然保持：
@@ -310,12 +327,6 @@ git push origin feature/your-feature
 - RAG 检索、实体消歧、长期记忆
 - Windows/macOS/Linux 兼容性问题
 - 文档、示例项目和新手教程
-
-## 赞助与支持
-
-Webnovel Writer 用业余时间维护。如果它帮你省下了梳理设定、对齐伏笔的功夫，欢迎来信交流想法、反馈使用体验，或表达对项目的支持：
-
-📮 **ksdflisjdf@gmail.com**
 
 ## 更新简介
 
